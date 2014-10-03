@@ -5,11 +5,11 @@
 
 enum solutions_count
 {
-  		no_solutions,
-	  	one_solution,
-	  	two_solutions,
-	  	inf_solutions,
-	  	solving_error
+    no_solutions,
+    one_solution,
+    two_solutions,
+    inf_solutions,
+    solving_error
 };
 
 bool input(double* a, double* b, double *c);
